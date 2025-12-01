@@ -1,0 +1,10 @@
+D:\shujuku\Aviation Safety Incident System\bin\Aviation Safety Incident System.dll.config
+D:\shujuku\Aviation Safety Incident System\bin\Aviation Safety Incident System.dll
+D:\shujuku\Aviation Safety Incident System\bin\Aviation Safety Incident System.pdb
+D:\shujuku\Aviation Safety Incident System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\shujuku\Aviation Safety Incident System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\shujuku\Aviation Safety Incident System\obj\Debug\Aviation Safety Incident System.csproj.AssemblyReference.cache
+D:\shujuku\Aviation Safety Incident System\obj\Debug\Aviation Safety Incident System.csproj.CoreCompileInputs.cache
+D:\shujuku\Aviation Safety Incident System\obj\Debug\Aviation.956FC0FF.Up2Date
+D:\shujuku\Aviation Safety Incident System\obj\Debug\Aviation Safety Incident System.dll
+D:\shujuku\Aviation Safety Incident System\obj\Debug\Aviation Safety Incident System.pdb

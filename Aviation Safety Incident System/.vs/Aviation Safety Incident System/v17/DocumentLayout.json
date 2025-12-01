@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\shujuku\\Aviation Safety Incident System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\incidentaudit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:incidentaudit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|d:\\shujuku\\aviation safety incident system\\usermanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:usermanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\incidentreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:incidentreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\incidentquery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:incidentquery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\incidentquery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:incidentquery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\mymessagedetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:mymessagedetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\mymessagedetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:mymessagedetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\mymessages.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:mymessages.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|D:\\shujuku\\Aviation Safety Incident System\\mymessages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D1B362-8934-4C0C-AF73-F02D8E05B940}|Aviation Safety Incident System.csproj|solutionrelative:mymessages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManage.aspx",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\UserManage.aspx",
+              "RelativeDocumentMoniker": "UserManage.aspx",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\UserManage.aspx",
+              "RelativeToolTip": "UserManage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-30T16:04:32.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncidentAudit.aspx",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\IncidentAudit.aspx",
+              "RelativeDocumentMoniker": "IncidentAudit.aspx",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\IncidentAudit.aspx",
+              "RelativeToolTip": "IncidentAudit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-27T11:38:44.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncidentReport.aspx",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\IncidentReport.aspx",
+              "RelativeDocumentMoniker": "IncidentReport.aspx",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\IncidentReport.aspx",
+              "RelativeToolTip": "IncidentReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-27T11:26:50.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncidentQuery.aspx.cs",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\IncidentQuery.aspx.cs",
+              "RelativeDocumentMoniker": "IncidentQuery.aspx.cs",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\IncidentQuery.aspx.cs",
+              "RelativeToolTip": "IncidentQuery.aspx.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAmwPcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:24:56.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncidentQuery.aspx",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\IncidentQuery.aspx",
+              "RelativeDocumentMoniker": "IncidentQuery.aspx",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\IncidentQuery.aspx",
+              "RelativeToolTip": "IncidentQuery.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-26T10:24:41.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyMessages.aspx.cs",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\MyMessages.aspx.cs",
+              "RelativeDocumentMoniker": "MyMessages.aspx.cs",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\MyMessages.aspx.cs",
+              "RelativeToolTip": "MyMessages.aspx.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAqwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:27:06.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyMessages.aspx",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\MyMessages.aspx",
+              "RelativeDocumentMoniker": "MyMessages.aspx",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\MyMessages.aspx",
+              "RelativeToolTip": "MyMessages.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-26T09:21:28.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyMessageDetail.aspx.cs",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\MyMessageDetail.aspx.cs",
+              "RelativeDocumentMoniker": "MyMessageDetail.aspx.cs",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\MyMessageDetail.aspx.cs",
+              "RelativeToolTip": "MyMessageDetail.aspx.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAqwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:42:57.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyMessageDetail.aspx",
+              "DocumentMoniker": "D:\\shujuku\\Aviation Safety Incident System\\MyMessageDetail.aspx",
+              "RelativeDocumentMoniker": "MyMessageDetail.aspx",
+              "ToolTip": "D:\\shujuku\\Aviation Safety Incident System\\MyMessageDetail.aspx",
+              "RelativeToolTip": "MyMessageDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-26T04:42:37.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

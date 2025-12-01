@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\shujuku\publish\homework</_PublishTargetUrl>
+    <History>True|2025-11-26T04:29:47.6102503Z||;True|2025-11-26T12:20:57.6241237+08:00||;True|2025-11-26T12:12:24.0310440+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Aviation Safety Incident System.dll">
+      <publishTime>11/26/2025 12:29:46</publishTime>
+    </File>
+    <File Include="bin/Aviation Safety Incident System.pdb">
+      <publishTime>11/26/2025 12:29:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>11/26/2025 11:57:18</publishTime>
+    </File>
+    <File Include="IncidentAudit.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="IncidentInfoManage.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="IncidentQuery.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="IncidentReport.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>11/26/2025 11:57:59</publishTime>
+    </File>
+    <File Include="MyMessageDetail.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="MyMessages.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="NewsDetail.aspx">
+      <publishTime>11/26/2025 11:35:58</publishTime>
+    </File>
+    <File Include="NewsManage.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="UserManage.aspx">
+      <publishTime>11/26/2025 11:57:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/26/2025 12:12:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

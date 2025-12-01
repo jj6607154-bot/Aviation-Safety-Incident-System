@@ -1,0 +1,38 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.Master.cs" Inherits="WebForms.Site" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>航空安全事故管理系统</title>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server" />
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .nav { background: #1890ff; color: #fff; padding: 10px; }
+        .nav a { color: #fff; margin-right: 12px; text-decoration: none; }
+        .container { max-width: 1000px; margin: 20px auto; }
+    </style>
+  </head>
+  <body>
+    <form id="form1" runat="server" enctype="multipart/form-data">
+      <div class="nav">
+        <%-- 小白讲解：把“仪表板”链接改成“首页”，并指向网站根“~/”--%>
+        <asp:HyperLink ID="lnkDashboard" runat="server" NavigateUrl="~/" Text="首页" />
+        <%-- 顶部导航（按你要求的顺序） --%>
+        <asp:HyperLink ID="lnkIncidents" runat="server" NavigateUrl="~/IncidentQuery.aspx" Text="不安全事件查询" />
+        <asp:HyperLink ID="lnkRegulations" runat="server" NavigateUrl="~/Regulations.aspx" Text="安全法律法规" />
+        <asp:HyperLink ID="lnkNews" runat="server" NavigateUrl="~/NewsManage.aspx" Text="新闻发布" />
+        <asp:HyperLink ID="lnkNewsPublished" runat="server" NavigateUrl="~/NewsPublished.aspx" Text="已发布新闻" />
+        <asp:HyperLink ID="lnkIncidentReport" runat="server" NavigateUrl="~/IncidentReport.aspx" Text="事件上报" />
+        <asp:HyperLink ID="lnkMessagesTop" runat="server" NavigateUrl="~/MyMessages.aspx" Text="消息提醒" />
+        <asp:HyperLink ID="lnkIncidentAudit" runat="server" NavigateUrl="~/IncidentAudit.aspx" Text="事件审核" />
+        <asp:HyperLink ID="lnkIncidentManage" runat="server" NavigateUrl="~/IncidentInfoManage.aspx" Text="事件管理" />
+        <asp:HyperLink ID="lnkUserManage" runat="server" NavigateUrl="~/UserManage.aspx" Text="用户管理" />
+        <!-- 退出按钮（小白讲解）：登录后可见；点击后清理登录信息并返回登录页 -->
+        <asp:Button ID="btnLogout" runat="server" Text="退出" OnClick="btnLogout_Click" style="float:right;margin-left:12px;" />
+        <asp:Label ID="lblUser" runat="server" Text="" style="float:right"></asp:Label>
+      </div>
+      <div class="container">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+      </div>
+    </form>
+  </body>
+</html>
