@@ -68,16 +68,3 @@
   - 事件审核：`http://localhost:5082/IncidentAudit.aspx`  
   - 已发布新闻：`http://localhost:5082/NewsPublished.aspx`
 
-**近期改动（按你的需求）**
-- 事件查询页“查看全文”采用弹窗，不再跳转（`IncidentQuery.aspx` / `.cs`）
-- 我的消息详情隐藏“审核处理记录”组件（`MyMessageDetail.aspx` / `.cs`）
-- 首页文案移除“留痕可追溯。”
-- 新闻与事件“下架”统一写入“已下架”状态（`NewsPublished.aspx.cs:120-125`，`IncidentInfoManage.aspx.cs:462-468`）
-
-**可扩展方向**
-- 为“已下架”提供“重新发布/重新公开”按钮与流程，支持一键恢复
-- 全站字段使用 `nvarchar` 存储中文，避免出现 `????`（你已遇到过）；建议将涉及中文的列改为 `nvarchar(...)` 或 `nvarchar(max)`
-- 增加角色管理页与权限配置，降低硬编码判断
-- 引入统一的枚举/常量管理事件/新闻状态，减少字符串分散
-
-如果你希望我补充数据库字段一览或页面导航图，我可以继续整理成一张速查表，帮助你快速定位开发入口。
